@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Filipe Jesus 👋
 
-<!--
-**Filipejesusc/Filipejesusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formando em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Firebase
+- Git e GitHub
+
+## 🚀 Projeto em destaque
+
+### VendaFácil
+
+Aplicativo Android desenvolvido para auxiliar pequenos comerciantes no controle de estoque.
+
+### Tecnologias
+
+- Kotlin
+- Jetpack Compose
+- Firebase Firestore
+- Material Design
+
+## 📚 Atualmente aprendendo
+
+- APIs REST
+- Arquitetura MVVM
+- Room Database
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Android para colocar em prática meus conhecimentos e continuar evoluindo profissionalmente.
