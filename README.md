@@ -61,13 +61,6 @@ O projeto busca substituir controles manuais, reduzindo erros de cadastro, facil
 - Android Studio
   
 ---
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filipejesusc&show_icons=true" />
-</div>
----
-
 ## 📚 Atualmente estudando
 
 📌 Arquitetura de aplicativos Android  
