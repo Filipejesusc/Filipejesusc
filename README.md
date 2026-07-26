@@ -59,7 +59,13 @@ O projeto busca substituir controles manuais, reduzindo erros de cadastro, facil
 - Jetpack Compose
 - Firebase Firestore
 - Android Studio
+  
+---
+## 📊 Estatísticas do GitHub
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipejesusc&show_icons=true&theme=tokyonight"/>
+</div>
 ---
 
 ## 📚 Atualmente estudando
