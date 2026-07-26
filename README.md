@@ -18,20 +18,9 @@ Atualmente estou construindo meu portfólio e aprimorando meus conhecimentos par
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 📱 Desenvolvimento Mobile
-- Kotlin
-- Android Studio
-- Jetpack Compose
-- Material Design
-
-### 🔥 Banco de dados e serviços
-- Firebase Firestore
-- SQL
-
-### 🔧 Ferramentas
-- Git
-- GitHub
-- Gradle
+<div>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,gradle,sqlite" />
+</div>
 
 ---
 
