@@ -26,7 +26,7 @@ Atualmente estou construindo meu portfólio e aprimorando meus conhecimentos par
 ## 📊 Estatísticas do GitHub
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipejesusc&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github" />
 </div>
 ---
 
