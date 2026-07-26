@@ -23,6 +23,12 @@ Atualmente estou construindo meu portfólio e aprimorando meus conhecimentos par
 </div>
 
 ---
+## 📊 Estatísticas do GitHub
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipejesusc&show_icons=true&theme=tokyonight"/>
+</div>
+---
 
 ## 🚀 Projeto em destaque
 
