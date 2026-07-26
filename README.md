@@ -16,14 +16,6 @@ Atualmente estou construindo meu portfólio e aprimorando meus conhecimentos par
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-<div>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,gradle,sqlite" />
-</div>
-
----
-## 📊 Estatísticas do GitHub
 ## 🛠️ Tecnologias
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
